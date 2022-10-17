@@ -157,7 +157,7 @@ function generalize_data ($public, $private, $fail_or_stopped) {
     $languages = generalize_item(array(), $public);
     $languages = generalize_item($languages, $private);
     $languages = generalize_item($languages, $fail_or_stopped);
-    
+        
     // Prepare.
     for ($a=0; $a<count($languages); $a++) {
         $type = $languages[$a]['type'];

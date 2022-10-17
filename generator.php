@@ -2,6 +2,9 @@
 
 /**
  * Todas as coisas concorrem para o bem daqueles que amam a Deus - Romanos, 8.
+ * 
+ * Realiza contabilização dos códigos e gera arquivos de README.
+ * Salvando os mesmos nas versões PT-BR e EN-US.
  */
 
 function entry () {
@@ -157,8 +160,6 @@ function generalize_data ($public, $private, $fail_or_stopped) {
     $languages = generalize_item(array(), $public);
     $languages = generalize_item($languages, $private);
     $languages = generalize_item($languages, $fail_or_stopped);
-    
-    print_r( $languages);
     
     // Prepare.
     for ($a=0; $a<count($languages); $a++) {

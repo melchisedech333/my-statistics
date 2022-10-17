@@ -21,7 +21,7 @@ In this project my statistics about my public and private projects are stored. I
         <b>Total lines</b>
     </td>
     <td>
-        31912
+        31915
     </td>
     </tr><tr>
 <td>
@@ -42,7 +42,7 @@ In this project my statistics about my public and private projects are stored. I
     <b>PHP</b>
 </td>
 <td>
-    1709
+    1712
 </td>
 </tr><tr>
 <td>

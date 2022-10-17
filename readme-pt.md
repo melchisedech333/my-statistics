@@ -21,7 +21,7 @@ Neste projeto são armazenadas minhas estatísticas a respeito de meus projetos 
         <b>Total lines</b>
     </td>
     <td>
-        31912
+        31915
     </td>
     </tr><tr>
 <td>
@@ -42,7 +42,7 @@ Neste projeto são armazenadas minhas estatísticas a respeito de meus projetos 
     <b>PHP</b>
 </td>
 <td>
-    1709
+    1712
 </td>
 </tr><tr>
 <td>

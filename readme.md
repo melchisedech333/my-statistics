@@ -15,13 +15,17 @@ In this project my statistics about my public and private projects are stored. I
 
 <br>
 
+Update date: 17/10/2022 21:00:41
+
+<br>
+
 <table width='100%'>
 <tr>
     <td>
         <b>Total lines</b>
     </td>
     <td>
-        31915
+        31925
     </td>
     </tr><tr>
 <td>
@@ -42,7 +46,7 @@ In this project my statistics about my public and private projects are stored. I
     <b>PHP</b>
 </td>
 <td>
-    1712
+    1722
 </td>
 </tr><tr>
 <td>

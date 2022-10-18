@@ -310,6 +310,8 @@ function process_item_area ($data, $name, $area_name) {
 function readme_generator ($public, $private, $fail_or_stopped) {
     $data_generalized = generalize_data($public, $private, $fail_or_stopped);
 
+    $date = date('d/m/Y H:i:s');
+
     $en = "
 <div align='center'>
 
@@ -324,6 +326,10 @@ Language: <a href='readme-pt.md'>PT-BR</a>
 <br>
 
 In this project my statistics about my public and private projects are stored. It is important to say that only codes written by me are counted, third-party codes do not count.
+
+<br>
+
+Update date: ". $date ."
 
 <br>
 
@@ -343,6 +349,10 @@ Language: <a href='readme.md'>EN-US</a>
 <br>
 
 Neste projeto são armazenadas minhas estatísticas a respeito de meus projetos públicos e privados. É importante dizer que somente códigos escritos por mim é que são contabilizados, códigos de terceiros não entram na contagem.
+
+<br>
+
+Data da atualização: ". $date ."
 
 <br>
 

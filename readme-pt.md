@@ -15,7 +15,7 @@ Neste projeto são armazenadas minhas estatísticas a respeito de meus projetos 
 
 <br>
 
-Data da atualização: 17/10/2022 21:00:41
+Data da atualização: 17/10/2022 21:08:17
 
 <br>
 
@@ -36,7 +36,7 @@ Data da atualização: 17/10/2022 21:00:41
 </td>
 </tr><tr>
 <td>
-    <b>Grammar (Lex, Yacc, and ANTLR4</b>
+    <b>Grammar (Lex, Yacc, and ANTLR4)</b>
 </td>
 <td>
     2293

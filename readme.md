@@ -15,7 +15,7 @@ In this project my statistics about my public and private projects are stored. I
 
 <br>
 
-Update date: 17/10/2022 21:00:41
+Update date: 17/10/2022 21:08:17
 
 <br>
 
@@ -36,7 +36,7 @@ Update date: 17/10/2022 21:00:41
 </td>
 </tr><tr>
 <td>
-    <b>Grammar (Lex, Yacc, and ANTLR4</b>
+    <b>Grammar (Lex, Yacc, and ANTLR4)</b>
 </td>
 <td>
     2293

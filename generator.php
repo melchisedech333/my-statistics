@@ -260,7 +260,7 @@ function generalize_html ($data) {
     }
 
     $html .= process_item_area($data, 'c_cpp', 'C, C++, and headers');
-    $html .= process_item_area($data, 'grammar', 'Grammar (Lex, Yacc, and ANTLR4');
+    $html .= process_item_area($data, 'grammar', 'Grammar (Lex, Yacc, and ANTLR4)');
     $html .= process_item_area($data, 'php', 'PHP');
     $html .= process_item_area($data, 'ts', 'Typescript');
     $html .= process_item_area($data, 'js', 'Javascript');
